@@ -1,3 +1,5 @@
+// This function takes no command line arguments
+
 #include "AnalogIn.h"
 #include <iostream>
 #include <string>
